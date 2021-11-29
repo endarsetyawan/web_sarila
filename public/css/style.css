@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.card-header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+
+thead
+{
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
+tbody{
+    color: black;
+}
+foot{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
